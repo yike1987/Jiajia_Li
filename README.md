@@ -1,5 +1,6 @@
 # Jiajia_Li
-Homework Assignment
+Homework Assignment 
+R language
 try to impute the missing value of humidity with mean of humidity of the same weather condition.
 
 
