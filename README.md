@@ -1,4 +1,8 @@
 # Jiajia_Li
+Homework Assignment
+try to impute the missing value of humidity with mean of humidity of the same weather condition.
+
+
 weather1<-mean(bike_df$humidity[which(bike_df$weather==1)],na.rm=TRUE)
 weather2<-mean(bike_df$humidity[which(bike_df$weather==2)],na.rm=TRUE)
 weather3<-mean(bike_df$humidity[which(bike_df$weather==3)],na.rm=TRUE)
